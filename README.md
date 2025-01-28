@@ -68,8 +68,6 @@ For any inquiries or suggestions, feel free to reach out:
 - Email: [gunjagr02@gmail.com]
 - GitHub: [https://github.com/gunjanagr]
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
