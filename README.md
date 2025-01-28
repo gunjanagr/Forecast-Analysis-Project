@@ -12,7 +12,6 @@ A time series forecasting solution implementing SARIMA models to analyze and pre
 - **Data Visualization**: Interactive time series decomposition and trend analysis
 - **SARIMA Modeling**: Automated parameter selection (p,d,q)(P,D,Q)s
 - **Performance Metrics**: MAE, RMSE, and MAPE calculations
-- **Streamlit Interface**: User-friendly web app for predictions
 - **Historical Forecasts**: Backtesting capabilities with visual comparison
 
 ## Installation
@@ -41,7 +40,6 @@ results = model.fit()
 - Multi-step ahead forecasting
 
 ## Results
-![Forecast Visualization](docs/images/forecast_example.png)
 
 | Metric | Value |
 |--------|-------|
